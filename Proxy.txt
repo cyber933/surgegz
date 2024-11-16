@@ -1,2 +1,7 @@
 .macked.app
 .proxifier.com
+.fofa.info
+.sqlsec.com
+.okx.com
+.rou.video
+.hexsen.com
